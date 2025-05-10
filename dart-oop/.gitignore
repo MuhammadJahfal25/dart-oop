@@ -1,0 +1,63 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# User-specific files
+/AppData/
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+/Desktop/
+/Documents/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/Pictures/
+/Videos/
+/Saved Games/
+/Searches/
+
+# Other project directories
+/.android/
+/.codeium/
+/.cursor/
+/.gradle/
+/.idlerc/
+/.packettracer/
+/.supermaven/
+/.windsurf/
+/Web-Slot-SweetNeon/
+/cobacoba/
+/dart-basics/
+/fazle_foto/
+/flutter_ui/
+/form_app/
+/instagram_app/
+/layout_app/
+/navigator_app/
+/pweb/
+/rental-app/
+/rental-hp/
+/rental_hp/
+
+# System files
+NTUSER.DAT*
+ntuser.*
+Sti_Trace.log
+
+# Composer files
+/composer.json
+/composer.lock
